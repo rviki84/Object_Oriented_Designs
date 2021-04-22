@@ -1,7 +1,7 @@
 # Autosave files
 *~
 
-# Visual Studio user prefs and project caches
+# Visual Studio cache/options directory
 .vs/
 
 # build
